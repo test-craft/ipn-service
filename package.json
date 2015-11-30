@@ -1,0 +1,27 @@
+{
+  "name": "ipn-service",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.0",
+    "lodash": "^3.10.1",
+    "mongoose": "^4.1.3",
+    "tc-core": "git+https://podoler:7tUu5NxR@github.com/test-craft/tc-core.git#develop",
+    "winston": "^2.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.1.3",
+    "gulp-nodemon": "^2.0.3",
+    "superagent": "^1.3.0",
+    "yargs": "^3.20.0",
+    "gulp-jshint": "^1.11.2"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "globalstrict": true,
+
+  "globals"   : {
+    "describe"   : false,
+    "it"         : false,
+    "before"     : false,
+    "beforeEach" : false,
+    "after"      : false,
+    "afterEach"  : false,
+
+    "require"   : false,
+    "global"    : false,
+    "console"   : false,
+    "process"   : false,
+    "__dirname" : false,
+    "exports"   : false,
+    "module"    : false,
+    "Buffer"    : false
+  }
+}
